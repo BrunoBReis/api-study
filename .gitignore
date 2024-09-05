@@ -1,0 +1,5 @@
+### Virutal enviroment ###
+.venv
+
+### Pycache ###
+__pycache__/
